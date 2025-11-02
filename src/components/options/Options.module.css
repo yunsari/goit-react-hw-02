@@ -1,0 +1,19 @@
+.optContainer {
+    display: flex;
+    gap: 15px;
+    margin-top: 5%;
+}
+
+button {
+    background-color: orange;
+    color: #fff;
+}
+
+button:hover {
+    background-color: violet;
+    border-color: #fff;
+}
+
+button:active {
+    background-color: plum;
+}
